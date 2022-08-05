@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theHabesa1
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... UI/UX
 - 🌱 I’m currently learning ... ReactJS
 - 💞️ I’m looking to collaborate on ... REACT AND FRONT END
 - 📫 How to reach me ... YAREDABERA215@GMAIL.COM
