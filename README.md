@@ -18,7 +18,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehabesa1&show_icons=true&locale=en&layout=compact" alt="thehabesa1" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehabesa1&show_icons=true&locale=en" alt="thehabesa1" /></p>
 
